@@ -1,5 +1,7 @@
-require './lib/pantry'
+require './lib/recipe'
 require './lib/ingredient'
+require './lib/cook_book'
+require './lib/pantry'
 
 RSpec.describe Pantry do
 

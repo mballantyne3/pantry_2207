@@ -21,5 +21,4 @@ class Recipe
     end
     calorie_count
   end
-
 end
